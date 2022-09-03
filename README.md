@@ -6,7 +6,7 @@
  - opencv 4.6
  - mediapipe 0.8.10   
 
-If you're using Apple M1 chip use `pip install mediapipe-silicon`, instead of `pip install mediapipe`.
+If you're using Apple M1 chip use `pip install mediapipe-silicon`, instead of `pip install mediapipe`.   
 (Check out: https://github.com/google/mediapipe/issues/3277#issue-1212638655)
 
 ## Hardware
